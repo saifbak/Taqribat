@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969286671978",
+    "project_id": "taqribat-66c0f",
+    "storage_bucket": "taqribat-66c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969286671978:android:c5371268bdc55a9afdf413",
+        "android_client_info": {
+          "package_name": "com.taqribat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969286671978-q6tvuuaop1l60chmgurfednjj4lq2trq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPF7ET5XOFPOuTXs2CORkcNsGieQ7p7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969286671978-q6tvuuaop1l60chmgurfednjj4lq2trq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
